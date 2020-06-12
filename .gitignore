@@ -8,3 +8,4 @@ Content/StarterContent/
 
 *.VC.db*
 .vs/BuildingEscape/v16/Browse.VC.opendb
+*.ipch
