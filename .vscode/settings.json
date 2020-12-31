@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/gameProj/BuildingEscape/.git": true,
+		"D:/gameProj/BuildingEscape/.vs": true,
+		"D:/gameProj/BuildingEscape/.vscode": true,
+		"D:/gameProj/BuildingEscape/Content": true,
+		"D:/gameProj/BuildingEscape/Intermediate": true,
+		"D:/gameProj/BuildingEscape/Saved": true
+	}
+}
