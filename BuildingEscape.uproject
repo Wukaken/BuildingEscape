@@ -17,6 +17,14 @@
 		{
 			"Name": "PythonAutomationTest",
 			"Enabled": true
+		},
+		{
+			"Name": "ScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
 		}
 	]
 }
