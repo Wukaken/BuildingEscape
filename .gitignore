@@ -10,3 +10,4 @@ Content/StarterContent/
 .vs/BuildingEscape/v16/Browse.VC.opendb
 *.ipch
 BuildingEscape.xcworkspace
+BuildingEscape.code-workspace
