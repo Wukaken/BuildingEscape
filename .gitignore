@@ -11,3 +11,4 @@ Content/StarterContent/
 *.ipch
 BuildingEscape.xcworkspace
 BuildingEscape.code-workspace
+.vscode
